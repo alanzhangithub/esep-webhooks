@@ -42,7 +42,7 @@ public class Function
             
             var slackMessage = new
             {
-                text = $"New Issue Created: {issueUrl}"
+                text = $"Issue Created: {issueUrl}"
             };
 
             
